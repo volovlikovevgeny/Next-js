@@ -3,11 +3,9 @@ import React, { ReactElement } from 'react';
 const HomePage = (): ReactElement => {
   return (
     <div>
-      Hello World
+      Update Headline
     </div>
   );
 };
 
 export default HomePage;
-
-
